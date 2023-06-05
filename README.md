@@ -7,6 +7,11 @@ https://monosnap.com/list/647e396e07add43defcf4c08
 
 node index.js --action="list"
 https://monosnap.com/file/0wfIdURpOaU6yFVs6bEj5t4eReWd7p
+<img
+  src="https://monosnap.com/file/0wfIdURpOaU6yFVs6bEj5t4eReWd7p"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 # Отримуємо контакт по id
 
