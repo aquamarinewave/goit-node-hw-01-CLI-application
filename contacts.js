@@ -5,7 +5,6 @@ const { nanoid } = require("nanoid");
 
 const contactsPath = path.join(__dirname, "db/contacts.json");
 
-// TODO: 
 const listContacts = async () => {
     const data = await  fs.readFile(contactsPath);
     const todoList = JSON.parse(data);
